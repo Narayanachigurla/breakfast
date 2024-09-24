@@ -1,7 +1,7 @@
 ## 📝 About the Project
 
 **Break Fast** is a 🌟 **Landing Page** 🌟 that aims to 🎯 **capture leads, showcase product features, and drive user engagement** 🎯. 
-landing Page Url : https://narayanachigurla.github.io/BreakFast/
+landing Page Url : https://narayanachigurla.github.io/breakfast/
 
 ### ✨ Features
 
